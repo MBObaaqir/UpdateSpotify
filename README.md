@@ -1,4 +1,4 @@
-# Update Spotify (BuildBook Coding Exercise)
+# Update Spotify
 Ruby script for updating a "Spotify" JSON object based on a changes file
 
 This script ingests an input JSON object through and input JSON file, applies
